@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lansoft.Base", "Lansoft.Base\Lansoft.Base.csproj", "{972A9654-76B3-4A87-97E0-2E73F3868E8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F066A2C0-EE70-4EB8-91F7-E33B41DC9CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Lansoft.Base", "NUnit.Lansoft.Base\NUnit.Lansoft.Base.csproj", "{BD256BBB-D4E5-491B-AE0D-48D2779EB96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lansoft.Base.SQLite", "Lansoft.Base.SQLite\Lansoft.Base.SQLite.csproj", "{A1800785-8F27-49B6-B19F-68B06BC9ADF7}"
+EndProject
+Global
+	GlobalSection(MercurialSourceControlSolutionProperties) = preSolution
+		SolutionIsControlled = True
+		SolutionBindings = <Solution Location In Database>
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Lansoft.Base.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972A9654-76B3-4A87-97E0-2E73F3868E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972A9654-76B3-4A87-97E0-2E73F3868E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972A9654-76B3-4A87-97E0-2E73F3868E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972A9654-76B3-4A87-97E0-2E73F3868E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD256BBB-D4E5-491B-AE0D-48D2779EB96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD256BBB-D4E5-491B-AE0D-48D2779EB96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD256BBB-D4E5-491B-AE0D-48D2779EB96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD256BBB-D4E5-491B-AE0D-48D2779EB96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1800785-8F27-49B6-B19F-68B06BC9ADF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1800785-8F27-49B6-B19F-68B06BC9ADF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1800785-8F27-49B6-B19F-68B06BC9ADF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1800785-8F27-49B6-B19F-68B06BC9ADF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

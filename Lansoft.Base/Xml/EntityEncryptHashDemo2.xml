@@ -1,0 +1,8 @@
+﻿<EntityEncryptHashDemo2>
+  <Clave1 Clave="S" Tipo="string" CampoTipo="NVARCHAR" CampoLong="100" />
+  <Clave2 Clave="S" Tipo="string" CampoTipo="INTEGER" UltimaClave="S" />
+  <Campo1 Tipo="string" CampoTipo="NVARCHAR" CampoLong="100" CampoNull="S" />
+  <Campo2 Tipo="string" Encrypt="S" CampoTipo="NVARCHAR" CampoLong="100" CampoDefault="XXX" />
+  <Campo3 Tipo="string" CampoTipo="NVARCHAR" CampoLong="15" />
+  <Hash Tipo="string" Hash="S" CampoTipo="NVARCHAR" CampoLong="60" UltimoCampo="S" />
+</EntityEncryptHashDemo2>

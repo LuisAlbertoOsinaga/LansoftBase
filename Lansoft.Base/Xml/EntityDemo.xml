@@ -1,0 +1,7 @@
+﻿<EntityDemo>
+  <Clave1 Clave="S" Tipo="string" Hash="N" Encrypt="N" CampoTipo="NVARCHAR" CampoLong="100" CampoNull="N" CampoDefault="" />
+  <Clave2 Clave="S" Tipo="string" Hash="N" Encrypt="N" CampoTipo="NVARCHAR" CampoLong="100" CampoNull="N" CampoDefault="" UltimaClave="S" />
+  <Campo1 Clave="N" Tipo="string" Hash="N" Encrypt="N" CampoTipo="NVARCHAR" CampoLong="100" CampoNull="N" CampoDefault="" />
+  <Campo2 Clave="N" Tipo="string" Hash="N" Encrypt="N" CampoTipo="NVARCHAR" CampoLong="100" CampoNull="N" CampoDefault="" />
+  <Campo3 Clave="N" Tipo="string" Hash="N" Encrypt="N" CampoTipo="NVARCHAR" CampoLong="100" CampoNull="N" CampoDefault="" UltimoCampo="S" />
+</EntityDemo>
